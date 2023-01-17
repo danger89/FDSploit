@@ -4,5 +4,5 @@ colorama
 argparse
 html5lib
 validators
-fake_useragent
+fake-useragent
 requests[security]
